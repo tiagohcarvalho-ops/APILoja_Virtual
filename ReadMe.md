@@ -1,4 +1,4 @@
-# Loja API
+# Sistema de Gerenciamento de Loja Virtual - API REST
 
 ## Descrição
 
